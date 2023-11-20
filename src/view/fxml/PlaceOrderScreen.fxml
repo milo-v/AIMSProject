@@ -102,13 +102,13 @@
             <HBox prefHeight="100.0" prefWidth="200.0">
                <children>
                   <Region prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS" />
-                  <Button mnemonicParsing="false" style="-fx-background-color: red;" text="Confirm Delivery" textFill="WHITE">
+                  <Button fx:id="confirmDeliveryButton" mnemonicParsing="false" style="-fx-background-color: red;" text="Confirm Delivery" textFill="WHITE">
                      <font>
                         <Font name="System Bold" size="24.0" />
                      </font>
                   </Button>
                   <Region prefHeight="101.0" prefWidth="61.0" />
-                  <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" style="-fx-background-color: red;" text="Place Rush Order" textFill="WHITE">
+                  <Button fx:id="placeRushOrderButton" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" style="-fx-background-color: red;" text="Place Rush Order" textFill="WHITE">
                      <font>
                         <Font name="System Bold" size="24.0" />
                      </font>

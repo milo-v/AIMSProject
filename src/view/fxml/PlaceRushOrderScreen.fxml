@@ -140,7 +140,7 @@
                     <children>
                         <ImageView fitHeight="99.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
                             <image>
-                                <Image url="@../../../../AndroidStudioProjects/android-basics-kotlin-lemonade-app/app/src/main/ic_launcher_lemonade-playstore.png" />
+                                <Image url="@../../../../../AndroidStudioProjects/android-basics-kotlin-lemonade-app/app/src/main/ic_launcher_lemonade-playstore.png" />
                             </image>
                             <HBox.margin>
                                 <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
@@ -183,7 +183,7 @@
                      <children>
                         <ImageView fitHeight="99.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../../AndroidStudioProjects/android-basics-kotlin-lemonade-app/app/src/main/ic_launcher_lemonade-playstore.png" />
+                              <Image url="@../../../../../AndroidStudioProjects/android-basics-kotlin-lemonade-app/app/src/main/ic_launcher_lemonade-playstore.png" />
                            </image>
                            <HBox.margin>
                               <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
